@@ -5,9 +5,9 @@
 - I'm studying about crustal deformation and remote sensing in space geodesy lab.
 - My current research interest is interseismic crustal deformation and strain rate.
 ### Tools
-I uses space geodetic tools:
-- InSAR
-- GNSS
+I uses these space geodetic data/tools:
+- InSAR (Interferometric Synthetic Aparture Rader)
+- GNSS (Global Navigation Satellite System)
 <!--
 **nagaoka919/nagaoka919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
