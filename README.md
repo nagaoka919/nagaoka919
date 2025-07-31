@@ -1,13 +1,7 @@
 ## Hi there 👋 🌎 🛰️
 
 ### Profile
-- I'm a doctoral student of Hokkaido University.
-- I'm studying about crustal deformation and remote sensing in space geodesy lab.
-- My current research interest is interseismic crustal deformation and strain rate.
-### Tools
-I mainly uses these space geodetic data/tools:
-- InSAR (Interferometric Synthetic Aparture Rader)
-- GNSS (Global Navigation Satellite System)
+PhD student in Space Geodesy Lab., Hokkaido University, Japan
 
 <!--
 **nagaoka919/nagaoka919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
