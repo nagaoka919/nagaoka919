@@ -1,7 +1,7 @@
 ## Hi there 👋 🌎 🛰️
 
 ### Profile
-PhD student in Space Geodesy Lab., Hokkaido University, Japan
+PhD student in [Space Geodesy Lab.](https://geodynamics.sci.hokudai.ac.jp/geodesy/en/index.html), Hokkaido University, Japan
 
 <!--
 **nagaoka919/nagaoka919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
