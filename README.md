@@ -1,6 +1,4 @@
 ## Hi there 👋 🌎 🛰️
-
-### Profile
 PhD student in [Space Geodesy Lab.](https://geodynamics.sci.hokudai.ac.jp/geodesy/en/index.html), Hokkaido University, Japan
 
 <!--
