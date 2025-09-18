@@ -1,5 +1,6 @@
 # CURRICULUM VITAE
-I am a Ph.D. student in Geophysics and Remote Sensing at Hokkaido University, where I am a member of the Space Geodesy Laboratory. My research focuses on monitoring crustal deformation and its geophysical interpretation.
+I am a Ph.D. student in the Space Geodesy Laboratory at Hokkaido University, majoring in Geophysics and Remote Sensing.
+My current research focuses on detecting crustal deformation using geodetic techniques such as InSAR and GNSS, and on its geophysical interpretation through physical modeling.
 ## Personal data
 - Name: Shogo Nagoaka
 - Date of birth: 1999-06-13
