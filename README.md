@@ -1,7 +1,7 @@
 ## Hi there 👋 🌎 🛰️ ⛰️ 🏳️‍🌈 🎓
 PhD student in [Space Geodesy Lab.](https://geodynamics.sci.hokudai.ac.jp/geodesy/en/index.html), Hokkaido University, Japan\
 [Curriculum Vitae](curriculum_vitae.md)
-Area of interests:
+### Area of interests:
 - 🌏 Earth sciences
 - 🛰️ Satellite remote sensing
 - ⛰️ Tectonic activities 
