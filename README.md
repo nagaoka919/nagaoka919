@@ -1,6 +1,12 @@
-## Hi there 👋 🌎 ⛰️ 🛰️ 🏳️‍🌈 🎓
+## Hi there 👋 🌎 🛰️ ⛰️ 🏳️‍🌈 🎓
 PhD student in [Space Geodesy Lab.](https://geodynamics.sci.hokudai.ac.jp/geodesy/en/index.html), Hokkaido University, Japan\
 [Curriculum Vitae](curriculum_vitae.md)
+Area of interests:
+- 🌏 Earth sciences
+- 🛰️ Satellite remote sensing
+- ⛰️ Tectonic activities 
+- 🏳️‍🌈 Radar interferometry
+- 🎓 Connecting academia to people
 <!--
 **nagaoka919/nagaoka919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
