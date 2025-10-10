@@ -4,7 +4,7 @@ PhD student in [Space Geodesy Lab.](https://geodynamics.sci.hokudai.ac.jp/geodes
 ### Area of interests:
 - 🌏 Earth sciences
 - 🛰️ Satellite remote sensing
-- ⛰️ Tectonic activities (especially in interseismic "slow" crystal deformation)
+- ⛰️ Tectonic activities (especially in interseismic "long-term" crystal deformation)
 - 🏳️‍🌈 Radar interferometry (and related phenomena: ionosphere, land surface change, etc.)
 - 🎓 Connecting academia to people
 <!--
