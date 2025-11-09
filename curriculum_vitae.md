@@ -4,7 +4,7 @@ My current research focuses on detecting crustal deformation using geodetic tech
 
 My curiosity (and also origin of my research) is on:
 - what we can see in radar interferometry, and
-- why we see the signals in the interferograms.
+- why we can see the signals in the interferograms.
 
 ## Personal data
 - Name: Shogo Nagoaka
