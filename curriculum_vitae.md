@@ -19,11 +19,8 @@ My curiosity (and also origin of my research) is on:
 ## Conference presentations
 ### 2025
 - Shogo Nagaoka, Youichiro Takada, Slope-Correlated Bias in Mean Velocity Field Derived from L-Band InSAR Time-Series, APSAR 2025, A69, 2025-10-08, Poster Presentation
-<!--
-- Shogo Nagaoka, Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, High-resolution Interseismic Crustal Deformation Mapping in Strain Concentration Zone within the Volcanic Arc Using L-band InSAR and Ultra-dense GNSS Network, AGU Annual Meeting 2025, G013-????, 2025-??-??, ????
-- Shogo Nagaoka, Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, Localized Crustal Deformation Along the Hida Mountain Range Following the
-2024 Noto Peninsula Earthquake Detected by Dense Geodetic Observations, AGU Annual Meeting 2025, G010-????, 2025-??-??, ????
--->
+- Shogo Nagaoka, Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, High-resolution Interseismic Crustal Deformation Mapping in Strain Concentration Zone within the Volcanic Arc Using L-band InSAR and Ultra-dense GNSS Network, AGU Annual Meeting 2025, G43C-0333, 2025-12-18, Poster Presentation
+- Shogo Nagaoka, Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, Localized Crustal Deformation Along the Hida Mountain Range Following the 2024 Noto Peninsula Earthquake Detected by Dense Geodetic Observations, AGU Annual Meeting 2025, G41B-0306, 2025-12-18, Poster Presentation
 ### 2024
 - Shogo Nagaoka, Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, Interseismic Strain Rates and Uplift Rates in Central Japan Derived from L-band InSAR and Dense GNSS Networks, AGU Annual Meeting 2024, G013-3572, 2024-12-10, Poster Presentation
 ### 2023
