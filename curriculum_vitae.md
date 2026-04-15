@@ -16,6 +16,7 @@ My curiosity (and also origin of my research) is on:
 - 2024 - Hokkaido University, Hokkaido, Japan; PhD student
 ## Reviewed paper
 - Nagaoka, S., Takada, Y., & Morishita, Y. (2025). Improved application of the split-spectrum method to L-band interferograms for ionospheric phase mitigation: A practical recipe. Earth, Planets and Space, 77(1), 82. https://doi.org/10.1186/s40623-025-02206-9
+- Nagaoka, S., & Takada, Y. (2025). Slope-Correlated Bias in Mean Velocity Field Derived From L-Band InSAR Time-Series. 2025 9th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR), 1–4. https://doi.org/10.23919/APSAR64635.2025.11392218
 ## Conference presentations
 ### 2025
 - Shogo Nagaoka, Youichiro Takada, Slope-Correlated Bias in Mean Velocity Field Derived from L-Band InSAR Time-Series, APSAR 2025, A69, 2025-10-08, Poster Presentation
