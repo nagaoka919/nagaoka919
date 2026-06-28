@@ -2,7 +2,7 @@
 I am a Ph.D. student in the Space Geodesy Laboratory at Hokkaido University, majoring in Geophysics and Remote Sensing.
 My current research focuses on detecting crustal deformation using geodetic techniques such as InSAR and GNSS, and on its geophysical interpretation through physical modeling.
 
-My curiosity (and also origin of my research) is on:
+My curiosity (and also origins of my research) is on:
 - what we can see in radar interferometry, and
 - why we can see the signals in the interferograms.
 
