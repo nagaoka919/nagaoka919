@@ -19,11 +19,11 @@ My curiosity (and also origins of my research) is on:
 - Nagaoka, S., Takada, Y., Nishimura, T., Sagiya, T., & Ohta, Y. (2026). High-resolution strain rate mapping around inland plate boundary within a volcanic arc using L-band InSAR and dense GNSS networks. Scientific Reports, 16(1), 19575. https://doi.org/10.1038/s41598-026-48775-x
 ## Proceedings
 - Nagaoka, S., & Takada, Y. (2025). Slope-Correlated Bias in Mean Velocity Field Derived From L-Band InSAR Time-Series. 2025 9th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR), 1–4. https://doi.org/10.23919/APSAR64635.2025.11392218
+- Nagaoka, S., & Takada, Y. (2026). Slope-Correlated Phase Bias in L-band InSAR Time Series. 16th European Conference on Synthetic Aperture Radar (EUSAR), 157–161. https://ieeexplore.ieee.org/document/11677329/
 ## Conference presentations
 ### 2026
-<!--
 - Shogo Nagaoka, *Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, Localized Deformation in the Northern Part of the Hida Mountain Range Associated with the 2024 Noto Peninsula Earthquake: Dense Geodetic Observation and Physical Modeling, JpGU-AGU 2026, SCG65-10, 2026-05-29, Oral Presentation
--->
+- Shogo Nagaoka, *Youichiro Takada, Takuya Nishimura, Detection of Interseismic Crustal Deformation around the Median Tectonic Line in Central Japan by InSAR and GNSS: A Preliminary Report, JpGU-AGU 2026, SCG65-P08, 2026-05-29, Poster Presentation
 - Shogo Nagaoka, Youichiro Takada, Slope-Correlated Phase Bias in L-band InSAR Time Series, EUSAR 2026, P5-14, 2026-06-09, Poster Presentation
 ### 2025
 - Shogo Nagaoka, Youichiro Takada, Slope-Correlated Bias in Mean Velocity Field Derived from L-Band InSAR Time-Series, APSAR 2025, A69, 2025-10-08, Poster Presentation
@@ -38,6 +38,10 @@ My curiosity (and also origins of my research) is on:
 - 2024/04-2025/03 Hokkaido University EXEX doctoral fellowship, Japan
 
 ## 国内学会
+<!--
+### 2026
+- 長岡頌悟・高田陽一郎、L-band InSAR 時系列解析における地形傾斜依存バイアスの同定と補正、日本測地学会第146回講演会、21、つくば国際会議場、2026年10月14日、口頭発表
+-->
 ### 2025
 - 長岡頌悟・高田陽一郎・西村卓也・鷺谷威・太田雄策、2024年能登半島地震に伴う飛騨山脈の局所的変形：地震後変動と粘性率不均質の検出、日本測地学会第144回講演会、38、釧路観光国際交流センター、2025年10月30日、口頭発表
 ### 2024
