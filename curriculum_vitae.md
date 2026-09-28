@@ -34,8 +34,9 @@ My curiosity (and also origins of my research) is on:
 ### 2023
 - Shogo Nagaoka, Youichiro Takada, Yu Morishita, A Practical Recipe for Applying the Split Spectrum Method to L-band Interferograms, AGU Fall Meeting 2023, G23C-0490, 2023-12-12, Poster Presentation.
 ## Fundings
-- 2025/04- JSPS Research Fellowship for Young Scientists (DC2), Japan
-- 2024/04-2025/03 Hokkaido University EXEX doctoral fellowship, Japan
+- 2025/04 - JSPS Research Fellowship for Young Scientists (DC2), Japan
+- 2024/04 - 2025/03 Hokkaido University EXEX doctoral fellowship, Japan
+- 2026/04 The Seto Prize (Publication Support), the Geodetic Society of Japan
 
 ## 国内学会
 <!--
