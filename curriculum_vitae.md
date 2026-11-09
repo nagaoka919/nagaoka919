@@ -18,8 +18,8 @@ My curiosity (and also origins of my research) is on:
 - Nagaoka, S., Takada, Y., & Morishita, Y. (2025). Improved application of the split-spectrum method to L-band interferograms for ionospheric phase mitigation: A practical recipe. _Earth, Planets and Space_, 77(1), 82. https://doi.org/10.1186/s40623-025-02206-9
 - Nagaoka, S., Takada, Y., Nishimura, T., Sagiya, T., & Ohta, Y. (2026). High-resolution strain rate mapping around inland plate boundary within a volcanic arc using L-band InSAR and dense GNSS networks. _Scientific Reports_, 16(1), 19575. https://doi.org/10.1038/s41598-026-48775-x
 ## Proceedings
-- Nagaoka, S., & Takada, Y. (2025). Slope-Correlated Bias in Mean Velocity Field Derived From L-Band InSAR Time-Series. 2025 9th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR), 1–4. https://doi.org/10.23919/APSAR64635.2025.11392218
-- Nagaoka, S., & Takada, Y. (2026). Slope-Correlated Phase Bias in L-band InSAR Time Series. 16th European Conference on Synthetic Aperture Radar (EUSAR), 157–161. https://ieeexplore.ieee.org/document/11677329/
+- Nagaoka, S., & Takada, Y. (2025). Slope-Correlated Bias in Mean Velocity Field Derived From L-Band InSAR Time-Series. _2025 9th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR)_, 1–4. https://doi.org/10.23919/APSAR64635.2025.11392218
+- Nagaoka, S., & Takada, Y. (2026). Slope-Correlated Phase Bias in L-band InSAR Time Series. _16th European Conference on Synthetic Aperture Radar (EUSAR)_, 157–161. https://ieeexplore.ieee.org/document/11677329/
 ## Conference presentations
 ### 2026
 - Shogo Nagaoka, *Youichiro Takada, Takuya Nishimura, Takeshi Sagiya, Yusaku Ohta, Localized Deformation in the Northern Part of the Hida Mountain Range Associated with the 2024 Noto Peninsula Earthquake: Dense Geodetic Observation and Physical Modeling, JpGU-AGU 2026, SCG65-10, 2026-05-29, Chiba, Japan, Oral Presentation
